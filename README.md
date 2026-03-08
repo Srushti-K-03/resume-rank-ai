@@ -68,14 +68,16 @@ Results Displayed on Dashboard
 Folder Structure
 Intelligent_Resume_Ranker
 │
-├── SBERT_Model           # Trained model files
-├── static                # CSS, JS, assets
-├── templates             # HTML templates
-├── uploads               # Uploaded resumes
-├── web_application       # Web logic
-├── app.py                # Flask application entry point
-├── README.md             # Project documentation
-└── .gitignore            # Ignored files
+├── SBERT_Model  # Trained model files
+├── static    # CSS, JS, assets
+├── templates   # HTML templates
+├── uploads  # Uploaded resumes
+├── web_application   # Web logic
+├── app.py   # Flask application entry point
+├── README.md  # Project documentation
+└── .gitignore   # Ignored files
+
+
 How the Ranking Works
 
 The job description is converted into a vector embedding using SBERT.
@@ -99,6 +101,7 @@ Run the application
 python app.py
 Open in browser
 http://localhost:5000
+
 Example Use Case
 
 Recruiters can upload a job description and multiple resumes.
