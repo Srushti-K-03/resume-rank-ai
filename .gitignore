@@ -1,17 +1,27 @@
 # Python cache & virtual env
 __pycache__/
 *.pyc
-.env/
+.env
 venv/
 .venv/
 
 # Flask upload folders
 static/uploads/
+uploads/
 instance/
+
+# Node modules
+node_modules/
+
+# ML models (large files)
+SBERT_Model/
 
 # IDE/project files
 .vscode/
 .idea/
+
+# Logs
+*.log
 
 # System files
 .DS_Store
