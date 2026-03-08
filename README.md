@@ -118,3 +118,20 @@ Candidate profile scoring
 Integration with job portals
 
 Support for DOCX and PDF parsing improvements
+
+
+## Screenshots
+### HR Dashboard
+<img width="1919" height="1038" alt="Screenshot 2026-01-02 185258" src="https://github.com/user-attachments/assets/9f5ae395-c798-4c85-8731-fc4a46068215" />
+
+### Job Description & Performance
+<img width="1170" height="791" alt="Screenshot 2026-01-09 182234" src="https://github.com/user-attachments/assets/bb74e11d-a4fd-40e8-bfd6-3c2ef08b8d57" />
+
+### AI Candidate Ranking
+<img width="581" height="666" alt="Screenshot 2026-01-09 182509" src="https://github.com/user-attachments/assets/1fc66874-100d-46a9-81e7-931c4cdfcb4a" />
+<img width="405" height="726" alt="Screenshot 2026-01-09 182416" src="https://github.com/user-attachments/assets/45527c3e-6824-47d2-9282-948f5124f01d" />
+
+
+### Candidate Pipeline
+
+<img width="1525" height="685" alt="Screenshot 2026-01-09 185204" src="https://github.com/user-attachments/assets/2787e15c-7aa0-43c5-95e9-6554aa62a435" />
